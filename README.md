@@ -6,7 +6,7 @@
 
 https://rapidapi.com/gabrielhcamacho/api/nexuscode-amazon-data-scraper
 
-![Amazon Data API](/Users/apple/Desktop/Projetos/amazon_api/rapidapi.png)
+![Amazon Data API](rapidapi.png)
 
 #### Check out my website NexusCode to check more projects
 https://nexuscode.dev
